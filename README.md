@@ -44,10 +44,6 @@ The dataset is organized by country, with the samples categorized by keywords.
 
 ## Licensing
 Please check the repository for licensing details and usage terms. [LINK](https://github.com/CCS-ML/ASCD_v2/blob/master/LICENSE)
-
-
 ## How to Download 
    - You can download the [ASCD](https://drive.google.com/drive/folders/12yJDnB-zZwuaiCLmrF2FIrTEJdHQPRO4?usp=sharing) 
-=======
 
->>>>>>> 16dc253bef04e7cfd9db2ad6d3d53ea677b5405c
